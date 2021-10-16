@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: skyblue;
+    text-align: left;
+    margin: 20px;
+}
+
+.mainDiv {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.mainDiv input {
+    padding: 10px;
+    /* font-size: 24px; */
+}
+
+.mainDiv button {
+    padding: 10px;
+    /* font-size: 24px; */
+}
+
+
+.mainDiv ul li {
+    background-color: white;
+    list-style: none;
+    border-radius: 10px;
+    width: 600px;
+    margin: 20px;
+    padding: 10px;
+}
